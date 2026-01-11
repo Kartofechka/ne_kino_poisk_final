@@ -1,0 +1,47 @@
+{
+  "users": {
+    "user_1": {
+      "id": 1,
+      "name": "user_1",
+      "password": "1",
+      "role": "user",
+      "date_of_registration": "20.12.2025",
+      "favorite": {
+        "films_id": [
+          18
+        ]
+      }
+    },
+    "user_2": {
+      "id": 2,
+      "name": "user_2",
+      "password": "1",
+      "role": "user",
+      "date_of_registration": "22.12.2025",
+      "favorite": {
+        "films_id": [
+          10,
+          11,
+          14,
+          18,
+          22,
+          24,
+          2
+        ]
+      }
+    },
+    "admin": {
+      "id": 3,
+      "name": "admin",
+      "password": "1",
+      "role": "admin",
+      "date_of_registration": "11.09.1952",
+      "favorite": {
+        "films_id": [
+          4,
+          2
+        ]
+      }
+    }
+  }
+}

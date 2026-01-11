@@ -1,0 +1,485 @@
+{
+  "films": {
+    "film_1": {
+      "id": 1,
+      "name": "Зверополис 2",
+      "preview": "https://avatars.mds.yandex.net/get-kinopoisk-image/10812607/a115270b-5380-4441-9fe4-43497d7d19a7/300x450",
+      "year": "2025",
+      "category": "Мультфильм",
+      "rating": "8.0",
+      "description": {
+        "country": "США",
+        "producer": "Джаред Буш, Байрон Ховард",
+        "long_time": "1 ч 48 мин",
+        "age": "6+",
+        "synopsis": "Кролик-полицейский Джуди и лис Ник идут по следу загадочной рептилии, чьё прибытие в Зверополис переворачивает жизнь города с ног на голову. Чтобы раскрыть дело, Джуди и Ник вынуждены работать под прикрытием в разных районах города."
+      },
+      "link_to_film": "https://flcksbr.top/film/5265603/",
+      "link_to_trailer": "https://www.youtube.com/watch?v=b9z1-WsTXYI&t=11s"
+    },
+    "film_2": {
+      "id": 2,
+      "name": "Сумерки",
+      "preview": "https://avatars.mds.yandex.net/get-kinopoisk-image/4303601/4460dee6-346c-4e7e-bd7b-29c1ea87194d/300x450",
+      "year": "2008",
+      "category": [
+        "Мелодрама",
+        "Фэнтези"
+      ],
+      "rating": "6,7",
+      "description": {
+        "country": "США",
+        "producer": "Кэтрин Хардвик",
+        "long_time": "2 ч 2 мин",
+        "age": "18+",
+        "synopsis": "Семнадцатилетняя девушка Белла переезжает к отцу в небольшой городок Форкс. Она влюбляется в загадочного одноклассника, который, как оказалось, происходит из семьи вампиров, отказавшихся от нападений на людей. Влюбиться в вампира. Это страшно? Это романтично, это прекрасно и мучительно, но это не может кончиться добром, особенно в вечном противостоянии вампирских кланов, где малейшее отличие от окружающих уже превращает вас во врага."
+      },
+      "link_to_film": "https://flcksbr.top/film/401177/",
+      "link_to_trailer": "https://yandex.by/video/preview/10487878638904128518"
+    },
+    "film_3": {
+      "id": 3,
+      "name": "Жмурки",
+      "preview": "https://avatars.mds.yandex.net/get-ott/2419418/2a000001985369c30d92429399dc6eeb88c8/300x450",
+      "year": "2005",
+      "category": [
+        "Комедия",
+        "Криминал"
+      ],
+      "rating": "7,3",
+      "description": {
+        "country": "Россия",
+        "producer": "Алексей Балабанов",
+        "long_time": "1 ч 51 мин",
+        "age": "18+",
+        "synopsis": "Нижний Новгород, 90-е. Два мелких бандита работают на местного криминального авторитета Сергея Михайловича. Однажды Серега и Саймон получают от шефа очередное поручение — привезти химика, специалиста по белому порошку. Парни проваливают задание, однако Сергей Михайлович дает им шанс исправить ситуацию. Для этого бандитам нужно съездить в одну контору и обменять чемодан денег на чемодан наркотиков. Но на выходе парней поджидают конкуренты — Корон, Бала и Баклажан, которых местный «оборотень в погонах» нанял, чтобы кинуть мафиози Михалыча."
+      },
+      "link_to_film": "https://flcksbr.top/film/84830/",
+      "link_to_trailer": "https://www.youtube.com/watch?v=JROndKTL5Y8"
+    },
+    "film_4": {
+      "id": 4,
+      "name": "Груз 200",
+      "preview": "https://avatars.mds.yandex.net/get-ott/2385704/2a000001985258e8ebe0f7d8b74db4d26b85/300x450",
+      "year": "2007",
+      "category": [
+        "Триллер",
+        "Драма"
+      ],
+      "rating": "6,8",
+      "description": {
+        "country": "Россия",
+        "producer": "Алексей Балабанов",
+        "long_time": "1 ч 25 мин",
+        "age": "18+",
+        "synopsis": "Милиционер расследует исчезновение дочери секретаря райкома. Самый беспощадный фильм Алексея Балабанова"
+      },
+      "link_to_film": "https://flcksbr.top/film/259251/",
+      "link_to_trailer": "https://www.youtube.com/watch?v=xHt5xTjsKcM"
+    },
+    "film_5": {
+      "id": 5,
+      "name": "Кочегар",
+      "preview": "https://avatars.mds.yandex.net/get-ott/1672343/2a0000019854bd2ed9c0271287d6d53498e6/300x450",
+      "year": "2010",
+      "category": [
+        "Драма",
+        "Криминал"
+      ],
+      "rating": "6,8",
+      "description": {
+        "country": "Россия",
+        "producer": "Алексей Балабанов",
+        "long_time": "1 ч 27 мин",
+        "age": "18+",
+        "synopsis": "В 1990-х бандиты используют кочегарку как крематорий. Драма Алексея Балабанова о мести маленького человека"
+      },
+      "link_to_film": "https://flcksbr.top/film/500358/",
+      "link_to_trailer": "https://www.youtube.com/watch?v=z2y2FOcyDdY"
+    },
+    "film_6": {
+      "id": 6,
+      "name": "Терминатор 2: Судный день",
+      "preview": "https://avatars.mds.yandex.net/get-ott/2439731/2a0000019854455b01d50d390e7ab1abd0ff/300x450",
+      "year": "1991",
+      "category": [
+        "Фантастика",
+        "Боевик",
+        "Триллер"
+      ],
+      "rating": "8.4",
+      "description": {
+        "country": "США, Франция",
+        "producer": "Джеймс Кэмерон",
+        "long_time": "2 ч 17 мин",
+        "age": "18+",
+        "synopsis": "Жидкий киборг, ядерный апокалипсис и культовое «Hasta la vista, baby». Бессмертный шедевр Джеймса Кэмерона"
+      },
+      "link_to_film": "https://flcksbr.top/film/444/",
+      "link_to_trailer": "https://www.youtube.com/watch?v=V2wMFn-z6ik"
+    },
+    "film_7": {
+      "id": 7,
+      "name": "Интерстеллар",
+      "preview": "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/430042eb-ee69-4818-aed0-a312400a26bf/600x900",
+      "year": "2014",
+      "category": [
+        "Фантастика",
+        "Драма",
+        "Приключения"
+      ],
+      "rating": "8.7",
+      "description": {
+        "country": "США, Великобритания",
+        "producer": "Кристофер Нолан",
+        "long_time": "2 ч 49 мин",
+        "age": "12+",
+        "synopsis": "Группа исследователей отправляется через космический портал в поисках новой планеты для человечества."
+      },
+      "link_to_film": "https://flcksbr.top/film/258687/",
+      "link_to_trailer": "https://www.youtube.com/watch?v=zSWdZVtXT7E"
+    },
+    "film_8": {
+      "id": 8,
+      "name": "Матрица",
+      "preview": "https://avatars.mds.yandex.net/get-kinopoisk-image/4774061/cf1970bc-3f08-4e0e-a095-2fb57c3aa7c6/300x450",
+      "year": "1999",
+      "category": [
+        "Фантастика",
+        "Боевик"
+      ],
+      "rating": "8.5",
+      "description": {
+        "country": "США",
+        "producer": "Лана Вачовски, Лилли Вачовски",
+        "long_time": "2 ч 16 мин",
+        "age": "16+",
+        "synopsis": "Хакер Нео узнаёт, что его мир — лишь иллюзия, созданная машинами для контроля над людьми."
+      },
+      "link_to_film": "https://flcksbr.top/film/301/",
+      "link_to_trailer": "https://www.youtube.com/watch?v=vKQi3bBA1y8"
+    },
+    "film_9": {
+      "id": 9,
+      "name": "Властелин колец: Братство кольца",
+      "preview": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/a2d5bcae-a1a9-442f-8195-f5373a5ba77f/600x900",
+      "year": "2001",
+      "category": [
+        "Фэнтези",
+        "Приключения"
+      ],
+      "rating": "8.6",
+      "description": {
+        "country": "Новая Зеландия, США",
+        "producer": "Питер Джексон",
+        "long_time": "2 ч 58 мин",
+        "age": "12+",
+        "synopsis": "Хоббит Фродо получает магическое кольцо и вместе с братством отправляется уничтожить его в огне Мордора."
+      },
+      "link_to_film": "https://flcksbr.top/film/328/",
+      "link_to_trailer": "https://www.youtube.com/watch?v=V75dMMIW2B4"
+    },
+    "film_10": {
+      "id": 10,
+      "name": "Бойцовский клуб",
+      "preview": "https://avatars.mds.yandex.net/get-ott/1672343/2a0000019a2f25469292045d741a2afdddd3/600x900",
+      "year": "1999",
+      "category": [
+        "Драма",
+        "Триллер"
+      ],
+      "rating": "8.7",
+      "description": {
+        "country": "США, Германия",
+        "producer": "Дэвид Финчер",
+        "long_time": "2 ч 19 мин",
+        "age": "18+",
+        "synopsis": "Офисный работник встречает харизматичного Тайлера Дёрдена и становится частью подпольного бойцовского клуба."
+      },
+      "link_to_film": "https://flcksbr.top/film/361/",
+      "link_to_trailer": "https://www.youtube.com/watch?v=SUXWAEX2jlg"
+    },
+    "film_11": {
+      "id": 11,
+      "name": "Унесённые призраками",
+      "preview": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/ae3b699c-3db7-4196-a869-39b610bfe706/300x450",
+      "year": "2001",
+      "category": [
+        "Анимация",
+        "Фэнтези",
+        "Приключения"
+      ],
+      "rating": "8.5",
+      "description": {
+        "country": "Япония",
+        "producer": "Хаяо Миядзаки",
+        "long_time": "2 ч 5 мин",
+        "age": "6+",
+        "synopsis": "Девочка Чихиро попадает в мир духов и должна найти способ вернуться домой."
+      },
+      "link_to_film": "https://flcksbr.top/film/370/",
+      "link_to_trailer": "https://www.youtube.com/watch?v=ByXuk9QqQkk"
+    },
+    "film_12": {
+      "id": 12,
+      "name": "Турист",
+      "preview": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/7882b56b-fed8-4aa5-a53b-02c5a9c948b2/300x450",
+      "year": "2021",
+      "category": [
+        "Боевик"
+      ],
+      "rating": "7,6",
+      "description": {
+        "country": "Россия",
+        "producer": "Андрей Щербинин",
+        "long_time": "1 ч 39 мин",
+        "age": "18+",
+        "synopsis": "Декабрь 2020 года. Бывший сотрудник полиции Гриша Дмитриев в составе небольшой группы российских инструкторов прибывает в Центральноафриканскую Республику..."
+      },
+      "link_to_film": "https://flcksbr.top/film/4446084/",
+      "link_to_trailer": "https://www.youtube.com/watch?v=TYinGYuxCCw"
+    },
+    "film_13": {
+      "id": 13,
+      "name": "Брестская крепость",
+      "preview": "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/b7f7bf0b-103b-47ed-998d-30e3eb9f2b1c/300x450",
+      "year": "2010",
+      "category": [
+        "Военный",
+        "Драма"
+      ],
+      "rating": "7.7",
+      "description": {
+        "country": "Беларусь, Россия",
+        "producer": "Александр Котт",
+        "long_time": "2 ч 18 мин",
+        "age": "12+",
+        "synopsis": "Фильм о героической обороне Брестской крепости в первые дни Великой Отечественной войны."
+      },
+      "link_to_film": "https://flcksbr.top/film/468373/",
+      "link_to_trailer": "https://www.youtube.com/watch?v=QjQkYkRZqfA"
+    },
+    "film_14": {
+      "id": 14,
+      "name": "Очень страшное кино",
+      "preview": "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/b3db0dfb-2377-4858-bc9d-6ca8a588c131/300x450",
+      "year": "2000",
+      "category": [
+        "Комедия",
+        "Пародия"
+      ],
+      "rating": "6.2",
+      "description": {
+        "country": "США",
+        "producer": "Кинен Айвори Уайанс",
+        "long_time": "1 ч 28 мин",
+        "age": "16+",
+        "synopsis": "Пародия на популярные фильмы ужасов, где группа подростков сталкивается с нелепыми ситуациями."
+      },
+      "link_to_film": "https://flcksbr.top/film/401177/",
+      "link_to_trailer": "https://www.youtube.com/watch?v=R6gF4jzqkzM"
+    },
+    "film_15": {
+      "id": 15,
+      "name": "Криминальное чтиво",
+      "preview": "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/c8919d8f-b0a6-40e9-8292-9b6a0ff456d5/300x450",
+      "year": "1994",
+      "category": [
+        "Криминал",
+        "Драма"
+      ],
+      "rating": "8.6",
+      "description": {
+        "country": "США",
+        "producer": "Квентин Тарантино",
+        "long_time": "2 ч 34 мин",
+        "age": "18+",
+        "synopsis": "Переплетение историй гангстеров, боксёра и двух наёмников в культовом фильме Тарантино."
+      },
+      "link_to_film": "https://flcksbr.top/film/342/",
+      "link_to_trailer": "https://www.youtube.com/watch?v=s7EdQ4FqbhY"
+    },
+    "film_16": {
+      "id": 16,
+      "name": "Леон",
+      "preview": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/8662d92a-5881-4600-a7ae-549e6fd53b03/300x450",
+      "year": "1994",
+      "category": [
+        "Драма",
+        "Боевик"
+      ],
+      "rating": "8.5",
+      "description": {
+        "country": "Франция",
+        "producer": "Люк Бессон",
+        "long_time": "1 ч 50 мин",
+        "age": "16+",
+        "synopsis": "Наёмный убийца Леон становится наставником девочки, потерявшей семью."
+      },
+      "link_to_film": "https://flcksbr.top/film/389/",
+      "link_to_trailer": "https://www.youtube.com/watch?v=DcsirofJrlM"
+    },
+    "film_17": {
+      "id": 17,
+      "name": "Брат",
+      "preview": "https://avatars.mds.yandex.net/get-ott/12808873/2a0000019854a9569428328fa99b3f0e16d3/300x450",
+      "year": "1997",
+      "category": [
+        "Драма",
+        "Криминал"
+      ],
+      "rating": "8.0",
+      "description": {
+        "country": "Россия",
+        "producer": "Алексей Балабанов",
+        "long_time": "1 ч 36 мин",
+        "age": "16+",
+        "synopsis": "История Данилы Багрова, который возвращается из армии и оказывается втянутым в криминальный мир Петербурга."
+      },
+      "link_to_film": "https://flcksbr.top/film/41519/",
+      "link_to_trailer": "https://www.youtube.com/watch?v=Vb3Y6xP2pWc"
+    },
+    "film_18": {
+      "id": 18,
+      "name": "Бумер",
+      "preview": "https://avatars.mds.yandex.net/get-ott/13051577/2a0000019852c5acf0b4a80e44e5926a6327/300x450",
+      "year": "2003",
+      "category": [
+        "Драма",
+        "Криминал"
+      ],
+      "rating": "7.1",
+      "description": {
+        "country": "Россия",
+        "producer": "Пётр Буслов",
+        "long_time": "1 ч 50 мин",
+        "age": "16+",
+        "synopsis": "Четверо друзей после преступления скрываются от милиции на угнанном автомобиле BMW."
+      },
+      "link_to_film": "https://flcksbr.top/film/41520/",
+      "link_to_trailer": "https://www.youtube.com/watch?v=ZzY6zP2pWc"
+    },
+    "film_19": {
+      "id": 19,
+      "name": "В августе 44-го",
+      "preview": "https://avatars.mds.yandex.net/get-ott/2385704/2a00000198537b575dccffd6c993afaeee6d/300x450",
+      "year": "2001",
+      "category": [
+        "Военный",
+        "Драма"
+      ],
+      "rating": "7.3",
+      "description": {
+        "country": "Россия",
+        "producer": "Андрей Малюков",
+        "long_time": "1 ч 45 мин",
+        "age": "12+",
+        "synopsis": "Советские разведчики в августе 1944 года ищут немецкую диверсионную группу в Белоруссии."
+      },
+      "link_to_film": "https://flcksbr.top/film/41521/",
+      "link_to_trailer": "https://www.youtube.com/watch?v=ZzY6zP2pWc"
+    },
+    "film_20": {
+      "id": 20,
+      "name": "Кин-Дза-Дза!",
+      "preview": "https://avatars.mds.yandex.net/get-ott/1672343/2a00000198528db73e83dc4c2599dddeaf41/300x450",
+      "year": "1986",
+      "category": [
+        "Фантастика",
+        "Комедия"
+      ],
+      "rating": "8.0",
+      "description": {
+        "country": "СССР",
+        "producer": "Георгий Данелия",
+        "long_time": "2 ч 15 мин",
+        "age": "12+",
+        "synopsis": "Два советских человека случайно попадают на пустынную планету Плюк, где царят абсурдные законы."
+      },
+      "link_to_film": "https://flcksbr.top/film/451/",
+      "link_to_trailer": "https://www.youtube.com/watch?v=3uG7bQ6QGZk"
+    },
+    "film_21": {
+      "id": 21,
+      "name": "Мимино",
+      "preview": "https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/cad17264-604f-4677-aed9-9f14e3157978/300x450",
+      "year": "1977",
+      "category": [
+        "Комедия",
+        "Драма"
+      ],
+      "rating": "8.2",
+      "description": {
+        "country": "СССР",
+        "producer": "Георгий Данелия",
+        "long_time": "1 ч 37 мин",
+        "age": "6+",
+        "synopsis": "Грузинский пилот Вахтанг мечтает летать на больших лайнерах, но судьба приводит его в Москву."
+      },
+      "link_to_film": "https://flcksbr.top/film/4512/",
+      "link_to_trailer": "https://www.youtube.com/watch?v=QkZpXzYwWcM"
+    },
+    "film_22": {
+      "id": 22,
+      "name": "Старикам тут не место",
+      "preview": "https://avatars.mds.yandex.net/get-kinopoisk-image/10703959/e929aed3-f4bd-469b-b6fe-f4e86c8f4e21/300x450",
+      "year": "2007",
+      "category": [
+        "Триллер",
+        "Драма",
+        "Криминал"
+      ],
+      "rating": "8.1",
+      "description": {
+        "country": "США",
+        "producer": "Итан Коэн, Джоэл Коэн",
+        "long_time": "2 ч 2 мин",
+        "age": "18+",
+        "synopsis": "Охотник случайно находит чемодан с деньгами и становится целью безжалостного киллера."
+      },
+      "link_to_film": "https://flcksbr.top/film/325/",
+      "link_to_trailer": "https://www.youtube.com/watch?v=38A__WT3-o0"
+    },
+    "film_23": {
+      "id": 23,
+      "name": "Бесподобный мистер Фокс",
+      "preview": "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/d3d9fca2-b29f-4ae1-bada-8e57cebac4f3/300x450",
+      "year": "2009",
+      "category": [
+        "Анимация",
+        "Комедия",
+        "Приключения"
+      ],
+      "rating": "7.8",
+      "description": {
+        "country": "США, Великобритания",
+        "producer": "Уэс Андерсон",
+        "long_time": "1 ч 27 мин",
+        "age": "6+",
+        "synopsis": "Хитрый мистер Фокс решает обокрасть трёх фермеров, но сталкивается с последствиями своего плана."
+      },
+      "link_to_film": "https://flcksbr.top/film/401178/",
+      "link_to_trailer": "https://www.youtube.com/watch?v=n2igjYFojUo"
+    },
+    "film_24": {
+      "id": 24,
+      "name": "Остров собак",
+      "preview": "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/19f92516-4164-46f7-a083-2eb516a0adaf/300x450",
+      "year": "2018",
+      "category": [
+        "Анимация",
+        "Приключения"
+      ],
+      "rating": "8.1",
+      "description": {
+        "country": "США, Япония",
+        "producer": "Уэс Андерсон",
+        "long_time": "1 ч 41 мин",
+        "age": "18+",
+        "synopsis": "История 12-летнего мальчика Атари Кобаяси, опекаемого коррумпированным мэром Кобаяши. Когда по Указу последнего все домашние собаки города Мегасаки изгоняются на громадную свалку, Атари в одиночку отправляется на мусорный остров, чтобы найти своего верного пса по прозвищу Спотс..."
+      },
+      "link_to_film": "https://flcksbr.top/film/939785/",
+      "link_to_trailer": "https://www.youtube.com/watch?v=uDRMRc1l-mU"
+    }
+  }
+}
